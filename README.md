@@ -1,13 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -41,8 +33,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kut7728&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kut7728&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=kut7728&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kut7728&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
 ###
