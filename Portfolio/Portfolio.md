@@ -1,7 +1,4 @@
 %% Begin Waypoint %%
-- **APP**
-	- **Flutter**
-	- **iOS**
-- **WEB**
+- [[Supabase Oauth Apple login]]
 
 %% End Waypoint %%
