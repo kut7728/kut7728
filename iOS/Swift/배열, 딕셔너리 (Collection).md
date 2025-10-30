@@ -1,6 +1,6 @@
 ---
 상위 항목:
-  - "[[데이터 타입]]"
+  - "[[iOS/Swift/데이터 타입]]"
 ---
 ## Swift의 세 컬렉션 - Array, Dictionary, Set
 

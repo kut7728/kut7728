@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SfSquareJs",
+      "SfJs",
       "SfComputer",
       "SfApple",
-      "SfImages",
-      "SvReact",
-      "SfFlutter"
+      "SfImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Flutter": "SfFlutter",
   "Attachments": "SfImages",
   "iOS": "SfApple",
-  "CS": "SfComputer"
+  "CS": "SfComputer",
+  "JavaScript": "SfSquareJs"
 }
