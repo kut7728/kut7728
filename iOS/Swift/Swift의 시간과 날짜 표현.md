@@ -1,6 +1,3 @@
----
-설명: Date타입, DateFormmatter
----
 ### Date 타입
 
 ```Swift

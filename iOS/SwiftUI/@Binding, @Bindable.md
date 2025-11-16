@@ -1,7 +1,3 @@
----
-내용: 하위 스코프에서 실시간 변수 이어쓰기
-유형: Wrapper
----
 > [!important] @State 변수를 다른 구역에서도 이어서 쓰기위한 랩퍼 → @Binding
 > 
 > @Observable 변수(Class에 사용)를 다른 구역에서도 이어서 쓰기 위한 랩퍼 → @Bindable

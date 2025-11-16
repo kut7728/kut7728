@@ -1,7 +1,3 @@
----
-내용: 유저 검색 같은 키워드 검색기능을 스크롤뷰에 구현
-유형: Modifier
----
 ```Swift
 import SwiftUI
 import Kingfisher

@@ -1,7 +1,3 @@
----
-내용: 스크롤 기능, forEach-lazyVStack-List 비교
-유형: View
----
 ```Swift
 ScrollView (.horizontal) {
     HStack {

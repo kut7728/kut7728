@@ -1,7 +1,3 @@
----
-내용: VStack, HStack, ZStack
-유형: View
----
 > [!important] 여러개의 View를 감싸서 같이 출력해줌, Stack 없이는 하나의 View만 출력됨
 
 ### Vstack

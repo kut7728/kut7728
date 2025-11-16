@@ -1,7 +1,3 @@
----
-내용: 순차 읽어오기가 되는 그리드 뷰
-유형: View
----
 ```Swift
 let columns: [GridItem] = [
     GridItem(.flexible(), spacing: 2),

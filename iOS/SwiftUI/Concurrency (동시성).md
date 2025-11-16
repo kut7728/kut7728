@@ -1,7 +1,3 @@
----
-내용: Async, Await, Task, 이중 작업
-유형: Basic
----
 > [!important] url을 통해 데이터를 불러오는 등의 작업은 로딩에 시간을 잡아먹어 편의성에 지장을 줄 수 있다.
 > 
 > 오래 걸리는 작업은 xcode에서 `Option키`를 누르고 확인할때 async 표기가 되어 있다.

@@ -1,6 +1,3 @@
----
-유형: View
----
 ```Swift
 struct ContentView: View {
     

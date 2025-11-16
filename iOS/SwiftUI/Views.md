@@ -1,7 +1,3 @@
----
-내용: View Modifiers, Button, Spacer
-유형: View
----
 - 목차
     - [[#View]]
     - [[#View Modifiers]]

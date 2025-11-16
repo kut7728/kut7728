@@ -1,7 +1,3 @@
----
-내용: 그래디언트 주기
-유형: View
----
 ### 기본 LinearGradient 뷰
 
 ```Swift

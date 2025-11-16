@@ -1,7 +1,3 @@
----
-내용: 로컬 메모리 데이터베이스
-유형: Basic
----
 ```Swift
 import SwiftUI
 import SwiftData

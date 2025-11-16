@@ -1,6 +1,3 @@
----
-설명: URLSession, URLRequest, Alarmofire
----
 ## URLSession
 
 `애플 기본 서버 통신 API`

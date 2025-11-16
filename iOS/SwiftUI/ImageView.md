@@ -1,7 +1,3 @@
----
-내용: .aspectRatio
-유형: View
----
 ```Swift
 Image("dogProfile")
 	  .resizable()

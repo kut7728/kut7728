@@ -1,7 +1,3 @@
----
-내용: Auth, Firestore
-유형: API
----
 ## Auth - 유저 인증
 
 > [!important] **Firebase를 통한 유저 인증 솔루션**

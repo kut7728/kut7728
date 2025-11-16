@@ -1,7 +1,3 @@
----
-내용: SecureField
-유형: View
----
 ```Swift
 TextField("단어를 입력하세요", text: $nextWord)
 			.textInputAutocapitalization(.never)

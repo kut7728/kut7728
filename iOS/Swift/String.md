@@ -1,7 +1,3 @@
----
-상위 항목:
-  - "[[iOS/Swift/데이터 타입]]"
----
 - 목차
     - [[#MultipleLine String]]
     - [[#String]]

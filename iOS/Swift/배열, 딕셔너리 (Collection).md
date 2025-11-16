@@ -1,7 +1,3 @@
----
-상위 항목:
-  - "[[iOS/Swift/데이터 타입]]"
----
 ## Swift의 세 컬렉션 - Array, Dictionary, Set
 
 - Collection 에 객체와 값 둘다 저장 가능

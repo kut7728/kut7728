@@ -1,7 +1,3 @@
----
-내용: 이미지 캐싱도 같이 해주는 asyncImage
-유형: API
----
 https://github.com/onevcat/Kingfisher
 
   

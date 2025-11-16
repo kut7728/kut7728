@@ -1,6 +1,3 @@
----
-유형: View
----
 ```Swift
 var body: some View {
     @State var tabIndex = 0

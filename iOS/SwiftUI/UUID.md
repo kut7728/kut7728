@@ -1,7 +1,3 @@
----
-내용: Universially Unique IDentifier
-유형: Basic
----
 > [!important] 여러 항목들에 고유식별자를 제공해서 구분할 수 있도록 해줌
 
   
