@@ -36,7 +36,7 @@
 5. Token 요청 시 code_verifier로 검증
 6. Access Token 발급
 
-# [[OIDC (OpenID Connect)]]
+# OIDC (OpenID Connect)^[[[OIDC (OpenID Connect)]]]
 - Google, Apple 로그인 같은 소셜로그인들은 Oauth 2.0 위에 OIDC가 올라간 구조
 - OIDC는 OAuth2의 확장중 하나로써 인증(Authentication)에 대한 프로토콜
 - 각 인증 서비스제공자들에게서 받는 ID Token속의 사용자 정보(이름, 메일주소)등을 파싱해서 사용 가능
