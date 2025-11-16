@@ -3,6 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "개발 기간": "date"
+    "개발 기간": "text"
   }
 }
