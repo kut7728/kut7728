@@ -16,8 +16,10 @@
 - 라이브러리 : RiverPod, Flutter_Webview
 
 ## Web
-
-
+- 언어, 프레임워크 : TypeScript, Next.js, React
+- SDK : Supabase, Firebase, Klat
 
 
 # 트러블슈팅
+1. [[Flutter Supabase Oauth 로그인 구현하기]]
+2. 

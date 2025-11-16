@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
 - **[[OSSU]]**
-	- [[Supabase Oauth Apple login]]
+	- [[Flutter Supabase Oauth 로그인 구현하기]]
 
 %% End Waypoint %%
