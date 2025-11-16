@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SfFolderTree",
+      "LiFolderTree",
       "SfSquareJs",
       "SfJs",
-      "SfComputer",
-      "SfApple",
-      "SfImages"
+      "SfComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "Attachments": "SfImages",
   "iOS": "SfApple",
   "CS": "SfComputer",
-  "JavaScript": "SfSquareJs"
+  "JavaScript": "SfSquareJs",
+  "Architecture": "LiFolderTree"
 }

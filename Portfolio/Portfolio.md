@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
-- [[Supabase Oauth Apple login]]
+- **[[OSSU]]**
+	- [[Supabase Oauth Apple login]]
 
 %% End Waypoint %%
